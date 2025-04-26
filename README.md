@@ -7,20 +7,20 @@ This repository contains various Python projects implemented using the principle
 ## Projects Included
 
 * **Project 1: Drawing basic shapes of various size and color on a canvas.**
-[1.CreateShapes-Folder](https://github.com/VarihtRaheja/python-OOP/App1-createShapes)
+[CreateShapes-Folder](https://github.com/VarihtRaheja/python-OOP/tree/main/App1-createShapes)
     - A basic simulation of drawing basic geometric shapes like a square and rectangle with user defined sizes and color. Determining the area of the shape and checking if pointer is inside the boundary.
 
 * **Project 2: Bill for Flatmates**
-[2.Bill-Folder](https://github.com/VarihtRaheja/python-OOP/app2-BillApp)
+[Bill-Folder](https://github.com/VarihtRaheja/python-OOP/tree/main/app2-BillApp)
     - A system to dertermine the rent due for both flatmates, custom defined names and then creting a pdf of the reciept.
 
 
 * **Project 3: Geometric Shapes Painter**
-[3.MathPainter-Folder](https://github.com/VarihtRaheja/python-OOP/app3-MathPainter)
+[MathPainter-Folder](https://github.com/VarihtRaheja/python-OOP/tree/main/app3-MathPainter)
     - A program that lets the user provide the start coordinates of geometrical shapes such as squares and rectangles, their dimensions, and their colors, and the program produces an image file canvas with all the geometrical shapes drawn in it.
 
 * **Project 4: Webcam-Photo-Sharer**
-[4.MathPainter-Folder](https://github.com/VarihtRaheja/python-OOP/app4-Webcam-Photo-Sharer)
+[MathPainter-Folder](https://github.com/VarihtRaheja/python-OOP/tree/main/app4-Webcam-Photo-Sharer)
     - A program thatstarts the computer webcam, lets the user capture a photo and uploads the photo to the web and creates a sharable link.
 
 ---
